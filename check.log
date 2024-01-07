@@ -1,0 +1,514 @@
+INFO   : Debugout::setLevel:DebugLevel set to: RESULT
+[?1034hmodule register user_ana_check
+path create main
+path add_module main fix_mdst user_ana_check
+module put_parameter fix_mdst Endcap_MX_layer\11
+module put_parameter fix_mdst Correct_ecl_pv\1
+ 
+initialize 
+ 
+#histogram define bcs_sumchisq.hbk
+ histogram define check.hbk
+
+#process_event /gpfs/home/belle2/souvik/PUBLIC/mcproduzh/gsim/mdst/evtgen_exp_09 _dppippiz-380.mdst 
+
+#process_event /gpfs/group/belle/bdata_b/dstprod/dat/e000009/HadronB/0416/on_res onance/00/e000009r000017-b20020416_1604.mdst
+
+#process_event  /home/belle2/souvik/PUBLIC/mcproduzh/gsim/mdst/mdst/evtgen_exp_5 5_d0prel-0.mdst
+process_event  /group/belle/users/souvik/new_mode_mdst/new/elec_mode/evtgen_exp_ 55_d0prel-0.mdst
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+[GenInfo] appendGenFSP: requesting Particle with ID = 0! Exiting.
+[GenInfo] appendGenFSP: requesting Particle with ID = 0! Exiting.
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+421[GenInfo] setMCtruth: requesting particle with ID = 0! Exiting.
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+421[GenInfo] setMCtruth: requesting particle with ID = 0! Exiting.
+421[GenInfo] setMCtruth: requesting particle with ID = 0! Exiting.
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+[GenInfo] compareFinalStates: Particle (2212 with hepevt = 2212) not found in list of FSP (gen)!
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+pis id 9876789
+-------------------------- BASF Execution Statistics ------------------------------------
+      Module         |       CPU time(sec)         |   # of calls     | CPU time/call
+---------------------+-----------------------------+------------------+------------------
+    user_ana_check   |             1(       2)     |        2000      |       0.001
+    fix_mdst         |             2(       1)     |        2000      |       0.001
+---------------------+-----------------------------+------------------+------------------
+ Total CPU time(sec) |             3(       3)                        |       0.002
+---------------------+-----------------------------+------------------+------------------
+
+   Exp   Run    #evts        Lum   #evts/lum            4S     Continuum            3S      above 4S         other
+Total On4S lum. =             0 Continuum Lum. =             0 3S Lum. =             0 Above4S Lum. =             0 Other Lum. =             0
+
+ MZSTOR.  ZEBRA table base TAB(0) in /MZCC/ at adr          -1    FFFFFFFF HEX
+
+ MZSTOR.  Initialize Store  0  in /GCBANK/
+          with Store/Table at absolute adrs     1023773          -1
+                                        HEX       F9F1D    FFFFFFFF
+                                        HEX       F9D4A           0
+                              relative adrs     1023306           0
+          with     1 Str. in     2 Links in   5300 Low words in 5999970 words.
+          This store has a fence of   16 words.
+
+ MZLOGL.  Set Log Level 0 for store  0
